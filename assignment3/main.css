@@ -1,0 +1,115 @@
+    @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap');
+    *{
+        
+        background-color: #91684A;
+        
+        }
+    *{
+        font-family: Prompt, 'Times New Roman', Times, serif;
+    }
+
+    /*padding*/
+    h1{
+        background-color: #21bcb6;
+        color: #ffffff;
+        padding-left: 30%;
+    }
+
+    #cinnamon-1_pic{
+    width: 20%;
+    border: 5px dotted rgb(255, 136, 0);
+    }
+
+    h2{
+        background-color: #cfb892;
+        color: #ffffff;
+        margin: 5pt;
+    }
+
+    /*border*/
+    #cinnamon-2_pic{
+        width: 20%;
+        border: 5px dotted rgb(237, 240, 48);
+        
+        }
+
+    h3{
+        background-color: #8f5239;
+        color: #ffffff;
+    }
+
+    h4{
+        text-align: left;
+    }
+
+
+    /*img*/
+    img{
+        width: 10%;
+        
+    }
+    
+    ul{
+        font-size: 20px;
+        color: #990606;
+    }
+    
+    
+    /*align*/
+    div{
+        text-align: center;
+    }
+    
+
+    div /*รูป */
+    {
+        text-align: center;
+    }
+
+    #cinnamon-3_pic{
+        width: 20%;
+        border: 5px dotted rgb(255, 0, 149);
+    }
+
+    #cinnamon-4_pic{
+        width: 20%;
+        border: 5px dotted rgb(0, 255, 98);
+    }
+
+    #cinnamon-5_pic{
+        width: 20%;
+        border: 5px dotted rgb(0, 26, 255);
+    }
+
+    #cinnamon-6_pic{
+        width: 20%;
+        border: 5px dotted rgb(195, 0, 255);
+    }
+
+    a:link {
+        color:#1B3059;
+    }
+    
+    a:visited{
+        color: #466FA6; 
+    } 
+    
+    a:hover {
+        color:#D7D7D9;
+    }
+
+    .flex_container{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        
+    }
+
+    #left1{
+        grid-column: 1 / span 1;
+        margin-left: 15%;
+        margin-top: 30%;
+    
+    }
+    
+ 
